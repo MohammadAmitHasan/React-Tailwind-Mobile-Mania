@@ -1,0 +1,72 @@
+[
+    {
+      "_id": "Apple_iPhone_13_Pro_Max",
+      "name": "Apple iPhone 13 Pro Max",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/10/Apple-iPhone-13-Pro-Max-image.jpg",
+      "price": 162999,
+      "brand": "Apple"
+    },
+    {
+      "_id": "Samsung_Galaxy_S22+",
+      "name": "Samsung Galaxy S22+",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Plus-image.jpg",
+      "price": 114999,
+      "brand": "Samsung"
+    },
+    {
+      "_id": "Xiaomi_11T_Pro",
+      "name": "Xiaomi 11T Pro",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/12/Xiaomi-11T-Pro-image.jpg",
+      "price": 64999,
+      "brand": "Xiaomi"
+    },
+    {
+      "_id": "Realme_GT_Neo2",
+      "name": "Realme GT Neo2",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/11/Realme-GT-Neo2-image.jpg",
+      "price": 39990,
+      "brand": "Realme"
+    },
+    {
+      "_id": "Vivo_X70_Pro_5G",
+      "name": "Vivo X70 Pro 5G",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/10/Vivo-X70-Pro-5G-image.jpg",
+      "price": 72990,
+      "brand": "Vivo"
+    },
+    {
+      "_id": "Oppo_R17_Pro",
+      "name": "Oppo R17 Pro",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2020/04/Oppo-R17-Pro-new.jpg",
+      "price": 69990,
+      "brand": "Oppo"
+    },
+    {
+      "_id": "OnePlus_7_Pro",
+      "name": "OnePlus 7 Pro",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2019/05/OnePlus-7-Pro.jpg",
+      "price": 68990,
+      "brand": "OnePlus"
+    },
+    {
+      "_id": "Motorola_Edge_20_Fusion",
+      "name": "Motorola Edge 20 Fusion",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/03/Motorola-Edge-20-Fusion.jpg",
+      "price": 36999,
+      "brand": "Motorola"
+    },
+    {
+      "_id": "Apple_iPhone_13",
+      "name": "Apple iPhone 13",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2021/10/Apple-iPhone-13-image.jpg",
+      "price": 118999,
+      "brand": "Apple"
+    },
+    {
+      "_id": "Samsung_Galaxy_S22_Ultra",
+      "name": "Samsung Galaxy S22 Ultra",
+      "img": "https://www.mobiledokan.com/wp-content/uploads/2022/02/Samsung-Galaxy-S22-Ultra-image.jpg",
+      "price": 143999,
+      "brand": "Samsung"
+    }
+  ]

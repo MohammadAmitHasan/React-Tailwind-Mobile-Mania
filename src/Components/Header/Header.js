@@ -3,7 +3,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <nav className='h-12 w-full bg-slate-800 text-yellow-100 fixed mb-14'>
+        <nav className='h-12 w-full bg-slate-800 text-yellow-100 sticky'>
             <div className='h-12 container mx-auto flex justify-between items-center'>
                 <div>
                     <h3 className='text-2xl'>Mobile Mania</h3>
